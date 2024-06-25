@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "762755047549",
+    "project_id": "flashchat-bbcbe",
+    "storage_bucket": "flashchat-bbcbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762755047549:android:6881dc8120717a9d151114",
+        "android_client_info": {
+          "package_name": "co.Akhil.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAcaUyTDr5gZPNGjjmvF04-E0HLyfSIrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
